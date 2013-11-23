@@ -2,8 +2,6 @@
 import matplotlib.pyplot as plt
 import random
 import math
-from copy import copy
-
 import argparse
 
 parser = argparse.ArgumentParser(description="Finds cluster centroids of random documents.")
