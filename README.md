@@ -2,7 +2,8 @@ K-means clustering
 ==================
 
     $ python k-means.py --help
-    usage: k-means.py [-h] [-n DOCUMENTS] [-k CLUSTERS]
+    usage: k-means.py [-h] [-n DOCUMENTS] [-k CLUSTERS] [--min-x MIN_X]
+                      [--min-y MIN_Y] [--max-x MAX_X] [--max-y MAX_Y]
 
     Finds cluster centroids of random documents.
 
